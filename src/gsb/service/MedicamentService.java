@@ -1,6 +1,7 @@
 package gsb.service;
 
 import gsb.modele.Medicament;
+import gsb.modele.dao.MedicamentDao;
 
 public class MedicamentService {
 	public static Medicament rechercherMedicament(String unCodeMedicament){

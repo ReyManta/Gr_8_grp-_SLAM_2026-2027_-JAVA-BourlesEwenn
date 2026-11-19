@@ -1,6 +1,7 @@
 package gsb.tests;
 
 import gsb.modele.Medicament;
+import gsb.service.MedicamentService;
 
 public class MedicamentServiceTest {
 

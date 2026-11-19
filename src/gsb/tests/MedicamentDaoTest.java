@@ -2,8 +2,8 @@ package gsb.tests;
 
 import java.util.HashMap;
 
-import gsb.modele.Medecin;
-import gsb.modele.dao.MedecinDao;
+import gsb.modele.Medicament;
+import gsb.modele.dao.MedicamentDao;
 
 public class MedicamentDaoTest {
 
